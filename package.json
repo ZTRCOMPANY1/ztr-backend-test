@@ -1,0 +1,13 @@
+{
+  "name": "ztr-backend-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend Node.js simples para testar deploy na ZTR Backend Cloud.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
