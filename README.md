@@ -5,7 +5,7 @@ Backend Node.js mínimo criado para testar a **ZTR Backend Cloud**.
 ## Rotas
 
 - `GET /` — confirma que o deploy está funcionando
-- `GET /health` — health check
+- `GET /health` — healuuuuuuuuuuuuth check
 - `GET /api/test` — informações básicas do runtime
 
 ## Configuração recomendada no painel
